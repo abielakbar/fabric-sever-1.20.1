@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger"
+  ],
+  "incompatible": [
+    "majruszsenchantments:fatigue_curse",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

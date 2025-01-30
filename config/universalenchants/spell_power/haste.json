@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "minecraft:punch",
+    "enchantmentsplus:stormstrike",
+    "minecraft:power",
+    "extra_enchantments:incandescent",
+    "extra_enchantments:electrifying_shot",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:infinity",
+    "soulsweapons:visceral",
+    "extra_enchantments:levitational_shot",
+    "minecraft:flame",
+    "minecraft:quick_charge",
+    "extra_enchantments:target_lock",
+    "minecraft:multishot",
+    "extra_enchantments:shadow_shot",
+    "qu-enchantments:accuracy",
+    "qu-enchantments:arrows_flight",
+    "soulsweapons:fast_hands",
+    "extra_enchantments:resonating_shot",
+    "minecraft:piercing",
+    "enchantmentsplus:sniper",
+    "extra_enchantments:supercharge",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

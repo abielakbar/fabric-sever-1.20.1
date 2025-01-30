@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "extra_enchantments:swiftness",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

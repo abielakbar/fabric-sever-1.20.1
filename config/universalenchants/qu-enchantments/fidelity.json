@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:qu_horse_armor"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

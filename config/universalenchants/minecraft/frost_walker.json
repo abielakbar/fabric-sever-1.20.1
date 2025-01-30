@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet",
+    "$minecraft:universal_enchants_horse_armor"
+  ],
+  "incompatible": [
+    "enchantmentsplus:blazewalker",
+    "extra_enchantments:hellwalker",
+    "minecraft:depth_strider",
+    "majruszsenchantments:incompatibility_curse",
+    "qu-enchantments:molten_walker",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

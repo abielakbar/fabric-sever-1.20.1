@@ -1,0 +1,111 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				skeleton = true
+				bat = true
+				husk = true
+				frog = true
+				hoglin = true
+				experience_bottle = true
+				rabbit = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				stray = true
+				turtle = true
+				salmon = true
+				wither_skeleton = true
+				goat = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				phantom = true
+				glow_squid = true
+				glow_item_frame = false
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				fox = true
+				tropical_fish = true
+				chest_minecart = true
+				slime = true
+				iron_golem = true
+				zombified_piglin = true
+				blaze = true
+				cat = true
+				zombie = true
+				sheep = true
+				player = true
+				pufferfish = true
+				potion = true
+				wolf = true
+				polar_bear = true
+				strider = true
+				painting = true
+				cave_spider = true
+				cod = true
+				witch = true
+				spider = true
+
+			[light_sources.settings.entities.soulsweapons]
+				evil_forlorn = true
+
+			[light_sources.settings.entities.majruszsdifficulty]
+				illusioner = true
+				cursed_armor = true
+				tank = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
+				skull = true
+				naga = true
+
+			[light_sources.settings.entities.levelz]
+				level_experience_orb = true
+
+			[light_sources.settings.entities.adventurez]
+				deer = true
+				amethyst_golem = true
+				mammoth = true
+
+			[light_sources.settings.entities.mca]
+				male_zombie_villager = true
+				female_zombie_villager = true
+				female_villager = true
+				male_villager = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+

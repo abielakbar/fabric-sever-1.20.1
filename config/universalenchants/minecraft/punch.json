@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow",
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "extra_enchantments:levitational_shot",
+    "spell_power:haste",
+    "majruszsenchantments:incompatibility_curse",
+    "spell_power:soulfrost",
+    "spell_power:sunfire",
+    "spell_power:critical_chance",
+    "spell_power:critical_damage",
+    "spell_power:energize",
+    "extra_enchantments:supercharge",
+    "extra_enchantments:incompatibility_curse",
+    "spell_power:spell_power"
+  ]
+}

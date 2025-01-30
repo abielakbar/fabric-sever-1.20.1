@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_head"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "extra_enchantments:spectral_vision",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

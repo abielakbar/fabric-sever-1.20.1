@@ -1,0 +1,38 @@
+{
+    "net.minecraft.class_481": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 42
+            },
+            "SETTINGS": {
+                "top": 40
+            }
+        }
+    },
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": -43,
+                "bottom": -15
+            },
+            "SETTINGS": {
+                "top": 70
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -19,
+                "bottom": -12
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -31,
+                "bottom": -27
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -19,
+                "bottom": -39
+            },
+            "SHOW_EDITOR": {
+                "top": 70
+            }
+        }
+    }
+}

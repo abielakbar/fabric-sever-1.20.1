@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "enchantmentsplus:toxicstrike",
+    "qu-enchantments:freezing_aspect",
+    "qu-enchantments:leeching_aspect",
+    "enchantmentsplus:levitation",
+    "majruszsenchantments:incompatibility_curse",
+    "qu-enchantments:inane_aspect",
+    "enchantmentsplus:frostbite",
+    "extra_enchantments:freezing_aspect",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

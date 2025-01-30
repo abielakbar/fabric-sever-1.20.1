@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet"
+  ],
+  "incompatible": [
+    "minecraft:soul_speed",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

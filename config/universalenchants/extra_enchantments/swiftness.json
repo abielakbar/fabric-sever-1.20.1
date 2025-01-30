@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "extra_enchantments:reach",
+    "extra_enchantments:attrition_curse",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:thorns",
+    "extra_enchantments:burning_thorns",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger"
+  ],
+  "incompatible": [
+    "majruszsenchantments:smelter",
+    "enchantmentsplus:flashforge",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:fortune",
+    "minecraft:luck_of_the_sea",
+    "minecraft:looting",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

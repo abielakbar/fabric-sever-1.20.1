@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "minecraft:bane_of_arthropods",
+    "enchantmentsplus:raider",
+    "majruszsenchantments:incompatibility_curse",
+    "enchantmentsplus:cubical",
+    "minecraft:sharpness",
+    "minecraft:smite",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

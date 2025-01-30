@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow"
+  ],
+  "incompatible": [
+    "minecraft:punch",
+    "minecraft:power",
+    "extra_enchantments:electrifying_shot",
+    "majruszsenchantments:incompatibility_curse",
+    "spell_power:soulfrost",
+    "spell_power:sunfire",
+    "minecraft:infinity",
+    "spell_power:critical_chance",
+    "spell_power:energize",
+    "minecraft:flame",
+    "minecraft:quick_charge",
+    "extra_enchantments:shadow_shot",
+    "spell_power:haste",
+    "extra_enchantments:resonating_shot",
+    "spell_power:critical_damage",
+    "extra_enchantments:incompatibility_curse",
+    "spell_power:spell_power"
+  ]
+}

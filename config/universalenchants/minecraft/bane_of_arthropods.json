@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "extra_enchantments:fishermans_blade",
+    "enchantmentsplus:raider",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:impaling",
+    "enchantmentsplus:cubical",
+    "enchantmentsplus:endslayer",
+    "majruszsenchantments:misanthropy",
+    "extra_enchantments:illagers_bane",
+    "minecraft:smite",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

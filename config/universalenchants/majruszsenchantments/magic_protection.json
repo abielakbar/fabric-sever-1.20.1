@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor"
+  ],
+  "incompatible": [
+    "minecraft:protection",
+    "minecraft:fire_protection",
+    "minecraft:blast_protection",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:feather_falling",
+    "spell_power:magic_protection",
+    "minecraft:projectile_protection",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet"
+  ],
+  "incompatible": [
+    "qu-enchantments:shaped_glass",
+    "qu-enchantments:essence_of_ender",
+    "minecraft:depth_strider",
+    "qu-enchantments:strip_miner",
+    "majruszsenchantments:incompatibility_curse",
+    "qu-enchantments:nightblood",
+    "extra_enchantments:incompatibility_curse",
+    "qu-enchantments:omen_of_immunity"
+  ]
+}

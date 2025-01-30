@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe"
+  ],
+  "incompatible": [
+    "minecraft:bane_of_arthropods",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:smite",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}

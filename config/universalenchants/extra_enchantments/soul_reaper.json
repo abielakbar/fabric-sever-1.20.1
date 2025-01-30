@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "extra_enchantments:pain_cycle",
+    "extra_enchantments:lifesteal",
+    "extra_enchantments:frenzy",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_enchantments:guarding_strike",
+    "extra_enchantments:enigma_resonator",
+    "extra_enchantments:incompatibility_curse"
+  ]
+}
